@@ -1,4 +1,4 @@
-#,Música,Artista,Popularidade,BPM,Gêneros,Álbum,Data do Álbum,Duração,Dançabilidade,Energia,Acústica,Instrumentalidade,Valência,Fala,Ao Vivo,Volume (dB),Tom,Compasso,Adicionado em,Spotify ID,Camelot,ISRC,Explicito
+#,Música,Artista,BPM,Camelot,Energia,Adicionado em,Duração,Popularidade,Gêneros,Álbum,Data do Álbum,Dançabilidade,Acústica,Instrumentalidade,Valência,Fala,Ao Vivo,Volume (Db),Tom,Compasso,Spotify Track Id,ISRC,Explícito
 1,"vampire","Olivia Rodrigo",137,7B,53,2026-07-16,03:39,87,"pop","GUTS",2023-09-08,48,15,0,32,0,20,-6,F Major,4,1kuGVB7EU95pJObxwvfwKS,USUG12304091,yes
 2,"A&W","Lana Del Rey",157,6B,24,2026-07-16,07:13,68,"pop","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,43,63,39,14,10,10,-15,A#/B♭ Major,4,5nW4z3pfZgJAJ2QTCz9AIE,GBUM72206757,yes
 3,"Dancing Circles","Sampha",106,6A,33,2026-07-16,03:53,48,"indie soul","Lahai",2023-10-20,88,80,0,53,0,0,-12,G Minor,3,6lNyT8TfnpMTRrmJRQKQC9,UK7MC2200179,no
@@ -13,17 +13,17 @@
 12,"Blood And Butter","Caroline Polachek",90,8B,68,2026-07-16,04:27,47,"art pop","Desire, I Want To Turn Into You",2023-02-14,59,23,0,40,0,0,-7,C Major,4,5KE5Inz4uZKGb2EzETaOEe,QM4TW2347730,no
 13,"TQG","KAROL G,Shakira",90,9A,65,2026-07-16,03:17,84,"reggaeton, latino, urbano latino, pop latino","MAÑANA SERÁ BONITO",2023-02-24,59,62,0,69,30,10,-3,E Minor,4,0DWdj2oZMBFSzRsi2Cvfzf,USUM72222541,yes
 14,"MONACO","Bad Bunny",139,9A,62,2026-07-16,04:27,87,"reggaeton, trap latino, latino, urbano latino","nadie sabe lo que va a pasar mañana",2023-10-13,79,15,0,13,0,50,-5,E Minor,4,4MjDJD8cW7iVeWInc2Bdyj,QMFME2364182,yes
-15,"Pearls","Jessie Ware",123,8A,84,2026-07-16,04:03,51,"","That! Feels Good!",2023-04-28,64,2,0,72,10,20,-5,A Minor,4,5EAbUR2kkfDOCWEcWcb7YG,GBUM72300304,no
+15,"Pearls","Jessie Ware",123,8A,84,2026-07-16,04:03,51,"pop","That! Feels Good!",2023-04-28,64,2,0,72,10,20,-5,A Minor,4,5EAbUR2kkfDOCWEcWcb7YG,GBUM72300304,no
 16,"From The Start","Laufey",81,3B,34,2026-07-16,02:49,89,"","Bewitched",2023-09-08,55,89,0,83,0,10,-10,C♯/D♭ Major,4,43iIQbw5hx986dUEZbr3eN,QMDA62312093,no
 17,"Worth It.","RAYE",110,4B,48,2026-07-16,04:06,81,"","My 21st Century Blues",2023-02-03,74,51,0,61,0,30,-8,G#/A♭ Major,4,7JgNAnCjJvL8hBR1kmCOFF,QMDA62229986,no
-18,"Temporary (feat. Don Toliver)","6LACK,Don Toliver",133,11A,53,2026-07-16,02:58,46,"","Since I Have A Lover",2023-03-24,74,33,0,16,0,10,-4,F#/G♭ Minor,4,5jcimR2X6OBkosIqPrhdi8,USUM72302901,no
+18,"Temporary (feat. Don Toliver)","6LACK,Don Toliver",133,11A,53,2026-07-16,02:58,46,"r&b, pop, soul","Since I Have A Lover",2023-03-24,74,33,0,16,0,10,-4,F#/G♭ Minor,4,5jcimR2X6OBkosIqPrhdi8,USUM72302901,no
 19,"i hate love (feat. Steve Martin)","Kelly Clarkson,Steve Martin",100,10B,67,2026-07-16,03:33,41,"natal, bluegrass, comédia, newgrass","chemistry",2023-06-23,61,0,0,34,0,30,-6,D Major,4,4j3FTxIHnFxkcNkHaq5yeg,USAT22302094,no
-20,"why does the earth give us people to love?","Kara Jackson",80,8A,32,2026-07-16,06:15,23,"","Why Does the Earth Give Us People to Love?",2023-04-14,57,53,0,19,0,10,-9,A Minor,4,58DEyGYEzY63sIWOuPlGDl,USQX92204585,no
-21,"Gloria","Sam Smith",177,7B,29,2026-07-16,01:50,36,"o lado suave do pop","Gloria",2023-01-27,10,87,0,28,0,0,-13,F Major,5,5miqHxHfCGpR6W9u2uzSgj,GBUM72205421,no
-22,"Summer Too Hot","Chris Brown",90,10A,70,2026-07-16,03:07,57,"r&b","11:11",2023-11-10,70,21,0,26,0,10,-8,B Minor,4,47gueui8O3YPtQL410Mimv,USRC12301497,yes
-23,"Last Night","Morgan Wallen",204,2B,67,2026-07-16,02:43,87,"country","One Thing At A Time",2023-03-03,49,41,0,49,0,10,-5,F#/G♭ Major,4,583dMdiUquLMenarTp7PQm,USUG12300802,yes
-24,"Life Goes On","Ed Sheeran",154,3B,30,2026-07-16,03:30,56,"o lado suave do pop","- (Deluxe)",2023-05-05,58,81,0,46,0,10,-8,C♯/D♭ Major,4,74eJR4gwG1ZmG4BFkbrOlA,GBAHS2201305,no
-25,"Chemical","Post Malone",170,10B,91,2026-07-16,03:03,61,"","AUSTIN",2023-07-28,49,0,0,39,0,10,-5,D Major,4,7jvtmQ3onpWeUm7dyFSSSc,USUM72305205,yes
+20,"why does the earth give us people to love?","Kara Jackson",80,8A,32,2026-07-16,06:15,23,"pop, folk","Why Does the Earth Give Us People to Love?",2023-04-14,57,53,0,19,0,10,-9,A Minor,4,58DEyGYEzY63sIWOuPlGDl,USQX92204585,no
+21,"Gloria","Sam Smith",177,7B,29,2026-07-16,01:50,36,"pop","Gloria",2023-01-27,10,87,0,28,0,0,-13,F Major,5,5miqHxHfCGpR6W9u2uzSgj,GBUM72205421,no
+22,"Summer Too Hot","Chris Brown",90,10A,70,2026-07-16,03:07,57,"r&b, pop","11:11",2023-11-10,70,21,0,26,0,10,-8,B Minor,4,47gueui8O3YPtQL410Mimv,USRC12301497,yes
+23,"Last Night","Morgan Wallen",204,2B,67,2026-07-16,02:43,87,"country, pop","One Thing At A Time",2023-03-03,49,41,0,49,0,10,-5,F#/G♭ Major,4,583dMdiUquLMenarTp7PQm,USUG12300802,yes
+24,"Life Goes On","Ed Sheeran",154,3B,30,2026-07-16,03:30,56,"pop","- (Deluxe)",2023-05-05,58,81,0,46,0,10,-8,C♯/D♭ Major,4,74eJR4gwG1ZmG4BFkbrOlA,GBAHS2201305,no
+25,"Chemical","Post Malone",170,10B,91,2026-07-16,03:03,61,"pop","AUSTIN",2023-07-28,49,0,0,39,0,10,-5,D Major,4,7jvtmQ3onpWeUm7dyFSSSc,USUM72305205,yes
 26,"First Person Shooter (feat. J. Cole)","Drake,J. Cole",164,10A,66,2026-07-17,04:07,75,"rap","For All The Dogs",2023-10-06,48,3,0,25,30,30,-7,B Minor,4,7aqfrAY2p9BUSiupwk3svU,USUG12306071,yes
 27,"FE!N (feat. Playboi Carti)","Travis Scott,Playboi Carti",148,2A,88,2026-07-17,03:11,86,"rap, rage rap","UTOPIA",2023-07-28,57,3,0,20,0,10,-3,D#/E♭ Minor,4,42VsgItocQwOQC3XWZ8JNA,USSM12305010,yes
 28,"SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)","Killer Mike,André 3000,Eryn Allen Kane,Future",140,4A,73,2026-07-17,04:13,56,"southern hip hop, hip hop alternativo, jazz ambiente, neo soul, rap, trap","MICHAEL",2023-06-16,52,69,0,50,30,20,-7,F Minor,4,1UsPflAuWTNteFUPJAJe8E,USC4R2332611,yes
