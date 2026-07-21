@@ -1,13 +1,13 @@
-#,Song,Artist,BPM,Camelot,Energy,Added At,Duration,Popularity,Genres,Album,Album Date,Dance,Acoustic,Instrumental,Valence,Speech,Live,Loud (Db),Key,Time Signature,Spotify Track Id,ISRC,Explicit
-1,"vampire","Olivia Rodrigo",137,7B,53,2026-07-16,03:39,87,"","GUTS",2023-09-08,48,15,0,32,0,20,-6,F Major,4,1kuGVB7EU95pJObxwvfwKS,USUG12304091,yes
-2,"A&W","Lana Del Rey",157,6B,24,2026-07-16,07:13,68,"","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,43,63,39,14,10,10,-15,A#/B♭ Major,4,5nW4z3pfZgJAJ2QTCz9AIE,GBUM72206757,yes
+#,Música,Artista,Popularidade,BPM,Gêneros,Álbum,Data do Álbum,Duração,Dançabilidade,Energia,Acústica,Instrumentalidade,Valência,Fala,Ao Vivo,Volume (dB),Tom,Compasso,Adicionado em,Spotify ID,Camelot,ISRC
+1,"vampire","Olivia Rodrigo",137,7B,53,2026-07-16,03:39,87,"pop","GUTS",2023-09-08,48,15,0,32,0,20,-6,F Major,4,1kuGVB7EU95pJObxwvfwKS,USUG12304091,yes
+2,"A&W","Lana Del Rey",157,6B,24,2026-07-16,07:13,68,"pop","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,43,63,39,14,10,10,-15,A#/B♭ Major,4,5nW4z3pfZgJAJ2QTCz9AIE,GBUM72206757,yes
 3,"Dancing Circles","Sampha",106,6A,33,2026-07-16,03:53,48,"indie soul","Lahai",2023-10-20,88,80,0,53,0,0,-12,G Minor,3,6lNyT8TfnpMTRrmJRQKQC9,UK7MC2200179,no
 4,"Boy's a liar Pt. 2","PinkPantheress,Ice Spice",133,7B,81,2026-07-16,02:11,76,"bedroom pop, ","Heaven knows",2023-11-10,70,25,0,86,0,20,-8,F Major,4,5CCr8msaN3MhgqBoa9yWhH,GBAYE2300015,yes
-5,"Moonlight","Kali Uchis",137,6A,71,2026-07-16,03:07,82,"","Red Moon In Venus",2023-03-03,64,52,0,86,0,20,-7,G Minor,4,0JmnkIqdlnUzPaf8sqBRs3,USUM72219486,no
-6,"Flowers","Miley Cyrus",118,8B,69,2026-07-16,03:20,89,"","Endless Summer Vacation",2023-08-18,71,6,0,63,0,0,-5,C Major,4,7DSAEUvxU8FajXtRloy8M0,USSM12209777,no
+5,"Moonlight","Kali Uchis",137,6A,71,2026-07-16,03:07,82,"pop","Red Moon In Venus",2023-03-03,64,52,0,86,0,20,-7,G Minor,4,0JmnkIqdlnUzPaf8sqBRs3,USUM72219486,no
+6,"Flowers","Miley Cyrus",118,8B,69,2026-07-16,03:20,89,"pop","Endless Summer Vacation",2023-08-18,71,6,0,63,0,0,-5,C Major,4,7DSAEUvxU8FajXtRloy8M0,USSM12209777,no
 7,"Be Who You Are (feat. JID, NewJeans & Camilo)","Jon Batiste,JID,NewJeans,Camilo",144,10B,90,2026-07-16,03:34,37,"k-pop, pop colombiano, pop urbano","World Music Radio",2023-08-18,64,2,0,72,10,20,-4,D Major,4,0E8VaGhwaOnUw7LAxYMMCo,USUG12305178,no
-8,"Always","Daniel Caesar",136,10B,44,2026-07-16,03:45,85,"","NEVER ENOUGH",2023-04-07,58,67,0,20,0,10,-8,D Major,4,2LlOeW5rVcvl3QcPNPcDus,USUG12209355,yes
-9,"HOT TO GO!","Chappell Roan",140,2B,76,2026-07-16,03:04,77,"","The Rise and Fall of a Midwest Princess",2023-09-22,74,2,0,96,0,30,-5,F#/G♭ Major,4,4xdBrk0nFZaP54vvZj0yx7,USUG12305911,no
+8,"Always","Daniel Caesar",136,10B,44,2026-07-16,03:45,85,"pop","NEVER ENOUGH",2023-04-07,58,67,0,20,0,10,-8,D Major,4,2LlOeW5rVcvl3QcPNPcDus,USUG12209355,yes
+9,"HOT TO GO!","Chappell Roan",140,2B,76,2026-07-16,03:04,77,"pop","The Rise and Fall of a Midwest Princess",2023-09-22,74,2,0,96,0,30,-5,F#/G♭ Major,4,4xdBrk0nFZaP54vvZj0yx7,USUG12305911,no
 10,"On My Mama","Victoria Monét",77,9A,55,2026-07-16,03:04,67,"r&b alternativo","JAGUAR II",2023-08-25,68,56,0,61,0,10,-8,E Minor,4,7DswEZZthZ6piQpL25qGAM,USRC12204025,yes
 11,"Float (feat. Seun Kuti & Egypt 80)","Janelle Monáe,Seun Kuti,Egypt 80",126,3A,50,2026-07-16,04:02,53,"r&b alternativo, afrobeat","The Age of Pleasure",2023-06-09,79,22,0,31,10,80,-5,A#/B♭ Minor,4,2GLN3KJjmFhXG8mHGr6II0,USAT22222009,yes
 12,"Blood And Butter","Caroline Polachek",90,8B,68,2026-07-16,04:27,47,"art pop","Desire, I Want To Turn Into You",2023-02-14,59,23,0,40,0,0,-7,C Major,4,5KE5Inz4uZKGb2EzETaOEe,QM4TW2347730,no
